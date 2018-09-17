@@ -1,0 +1,12 @@
+Por donde empezar:
+
+- La funcion mas complicada es N...(recomienda hacerla la primera)...
+- Nudos uniformes...
+- Calcular alfa,beta,ganma
+- Calcular lamda,beta
+- Calcular X
+- Calcular puntos Control
+- Dibujar Bspline (puntosEnCurva)
+
+2º Fase
+- CalculaNudosNoUniforme (comprobar 0/0)
